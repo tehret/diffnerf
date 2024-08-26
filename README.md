@@ -52,7 +52,7 @@ You can render and evaluate test images by running
 
 ### Using a pre-trained model
 
-Pre-trained models are provided as releases.
+Pre-trained models are provided as releases. They can be found in the [Release section](https://github.com/tehret/diffnerf/releases/tag/v1.0.0).
 
 ## Citations
 
